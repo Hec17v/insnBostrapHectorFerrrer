@@ -1,0 +1,24 @@
+body{
+    margin: auto;
+}
+
+.pintd{
+    background-color: rgb(33, 121, 33);
+}
+
+
+@media (max-width: 530px) { 
+
+.draw2{
+    color:blue;
+}
+
+}
+
+@media (max-width: 992px) {
+
+.draw1{
+    color:blue;
+}
+
+}
