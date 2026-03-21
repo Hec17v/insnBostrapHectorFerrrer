@@ -1,3 +1,4 @@
+
 body{
     margin: auto;
 }
@@ -6,19 +7,12 @@ body{
     background-color: rgb(33, 121, 33);
 }
 
-
-@media (max-width: 530px) { 
-
-.draw2{
-    color:blue;
+.greis{
+    background-color: rgb(240, 238, 237);
+    border-color: aliceblue;
+    color: gray;
 }
 
-}
-
-@media (max-width: 992px) {
-
-.draw1{
-    color:blue;
-}
-
+.foto{
+    background-color: rgb(240, 238, 237);
 }
